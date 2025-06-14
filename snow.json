@@ -1,5 +1,6 @@
 {
 	"name": "snow",
 	"description": "Makes snow appear in your screen",
-	"url": "https://raw.githubusercontent.com/uosq/lmaobox-luas/refs/heads/main/snow.lua"
+	"url": "https://raw.githubusercontent.com/uosq/lmaobox-luas/refs/heads/main/snow.lua",
+	"credits": "navet"
 }
