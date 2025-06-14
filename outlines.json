@@ -2,5 +2,6 @@
 	"name": "outlines",
 	"url": "https://raw.githubusercontent.com/uosq/lmaobox-luas/refs/heads/main/outline.lua",
 	"description": "Custom esp outline like classic glow",
-	"credits": "navet"
+	"credits": "navet",
+	"deps": []
 }

@@ -1,0 +1,7 @@
+{
+	"name": "spectatorlit",
+	"description": "Custom spectator list",
+	"url": "https://raw.githubusercontent.com/uosq/lmaobox-luas/refs/heads/main/spectator%20list.lua",
+	"credits": "navet",
+	"deps": []
+}

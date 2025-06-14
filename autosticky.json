@@ -2,5 +2,6 @@
 	"name": "autosticky",
 	"url": "https://raw.githubusercontent.com/uosq/lmaobox-luas/cd8a1c3726d83e2a53bc7e3946fb8994bd81f96a/auto%20sticky%20delay.lua",
 	"description": "Auto detonate stickies with customizable delay",
-	"credits": "navet"
+	"credits": "navet",
+	"deps": []
 }
