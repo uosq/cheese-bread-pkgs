@@ -3,5 +3,10 @@
 	"description": "Thirdperson view offset",
 	"url": "https://raw.githubusercontent.com/uosq/lmaobox-luas/refs/heads/main/thirdperson%20offset.lua",
 	"credits": "navet",
-	"deps": ["https://raw.githubusercontent.com/uosq/lbox-alib/refs/tags/0.44.1/source.lua"]
+	"deps": [
+		{
+			"url": "https://raw.githubusercontent.com/uosq/lbox-alib/refs/tags/0.44.1/source.lua",
+			"name": "alib"
+		}
+	]
 }
