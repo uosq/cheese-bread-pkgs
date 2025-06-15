@@ -2,6 +2,6 @@
 	"name": "customchams",
 	"description": "Custom chams with tranparency",
 	"url": "https://raw.githubusercontent.com/uosq/lmaobox-luas/refs/heads/main/transparent%20chams.lua",
-	"credits": "navet",
+	"authors": "navet",
 	"deps": []
 }

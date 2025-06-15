@@ -2,6 +2,6 @@
 	"name": "charge-control",
 	"description": "Improved mouse control while charging as Demoman",
 	"url": "https://github.com/titaniummachine1/Beta_Luas/raw/refs/heads/main/Charge_controll.lua",
-	"credits": "titaniummachine1 (Terminator)",
+	"authors": "titaniummachine1 (Terminator)",
 	"deps": []
 }

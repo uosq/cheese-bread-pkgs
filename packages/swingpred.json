@@ -2,7 +2,7 @@
 	"name": "swingpred",
 	"description": "Swing prediction for melee weapons",
 	"url": "https://github.com/titaniummachine1/Swing_prediction.lua/releases/download/v9.1.4/A_Swing_Prediction.lua",
-	"credits": "titaniummachine1 (Terminator)",
+	"authors": "titaniummachine1 (Terminator)",
 	"deps": [
 		{
 			"name": "lnxlib",

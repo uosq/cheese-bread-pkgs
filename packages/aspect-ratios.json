@@ -2,7 +2,7 @@
 	"name": "aspect-ratios",
 	"description": "Be able to change aspect ratios without changing resolution",
 	"url": "https://github.com/uosq/lmaobox-luas/raw/refs/heads/main/aspect%20ratios.lua",
-	"credits": "navet",
+	"authors": "navet",
 	"deps": [
 		{
 			"name": "alib",

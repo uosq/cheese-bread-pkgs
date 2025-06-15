@@ -2,6 +2,6 @@
 	"name": "crosshair",
 	"description": "Custom crosshair",
 	"url": "https://raw.githubusercontent.com/uosq/lmaobox-luas/refs/heads/main/crosshair.lua",
-	"credits": "navet",
+	"authors": "navet",
 	"deps": []
 }

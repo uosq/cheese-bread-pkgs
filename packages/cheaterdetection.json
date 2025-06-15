@@ -2,7 +2,7 @@
 	"name": "cheaterdetection",
 	"description": "Automatic bot and cheater detection and adds priority on cheaters. With visuals based on Rijin",
 	"url": "https://raw.githubusercontent.com/titaniummachine1/Cheater_Detection/refs/tags/v3.2.0/Cheater_Detection.lua",
-	"credits": "titaniummachine1 (Terminator)",
+	"authors": "titaniummachine1 (Terminator)",
 	"deps": [
 		{
 			"name": "lnxLib",

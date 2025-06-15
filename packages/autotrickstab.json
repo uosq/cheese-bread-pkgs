@@ -2,7 +2,7 @@
 	"name": "autotrickstab",
 	"description": "Automaticly detects possibility of backstabing enemy upon warping behind him",
 	"url": "https://github.com/titaniummachine1/Auto_Trickstab/releases/download/v1.15.2/Auto.Trickstab.lua",
-	"credits": "titaniummachine1 (Terminator)",
+	"authors": "titaniummachine1 (Terminator)",
 	"deps": [
 		{
 			"name": "lnxLib",

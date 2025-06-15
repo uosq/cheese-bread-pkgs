@@ -2,6 +2,6 @@
 	"name": "sniperdmg",
 	"description": "Displays the sniper rifle's damage",
 	"url": "https://raw.githubusercontent.com/uosq/lmaobox-luas/refs/heads/main/sniper%20rifle%20dmg.lua",
-	"credits": "navet",
+	"authors": "navet",
 	"deps": []
 }
