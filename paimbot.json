@@ -3,5 +3,14 @@
 	"description": "Custom projectile aimbot",
 	"url": "https://github.com/titaniummachine1/P_Aimbot/releases/download/v0.15/Aimbot.lua",
 	"credits": "titaniummachine1 (Terminator)",
-	"deps": []
+	"deps": [
+		{
+			"name": "lnxlib",
+			"url": "https://github.com/lnx00/Lmaobox-Library/releases/download/v1.00.0/lnxLib.lua"
+		},
+		{
+			"name": "ImMenu",
+			"url": "https://raw.githubusercontent.com/lnx00/Lmaobox-ImMenu/refs/heads/main/src/ImMenu.lua"
+		}
+	]
 }
