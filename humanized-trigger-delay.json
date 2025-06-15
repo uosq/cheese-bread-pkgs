@@ -1,0 +1,12 @@
+{
+	"name": "humanized-trigger-delay",
+	"description": "Gives triggerbot a more humanized feel",
+	"url": "https://raw.githubusercontent.com/titaniummachine1/Beta_Luas/refs/heads/main/A_Humanized_delay_TR.lua",
+	"credits": "titaniummachine1 (Terminator)",
+	"deps": [
+		{
+			"name": "lnxLib",
+			"url": "https://github.com/lnx00/Lmaobox-Library/releases/download/v1.00.0/lnxLib.lua"
+		}
+	]
+}

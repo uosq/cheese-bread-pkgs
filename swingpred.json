@@ -1,0 +1,16 @@
+{
+	"name": "swingpred",
+	"description": "Swing prediction for melee weapons",
+	"url": "https://github.com/titaniummachine1/Swing_prediction.lua/releases/download/v9.1.4/A_Swing_Prediction.lua",
+	"credits": "titaniummachine1 (Terminator)",
+	"deps": [
+		{
+			"name": "lnxlib",
+			"url": "https://github.com/lnx00/Lmaobox-Library/releases/download/v1.00.0/lnxLib.lua"
+		},
+		{
+			"name": "immenu",
+			"url": "https://raw.githubusercontent.com/lnx00/Lmaobox-ImMenu/refs/heads/main/src/ImMenu.lua"
+		}
+	]
+}

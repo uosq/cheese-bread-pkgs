@@ -1,0 +1,7 @@
+{
+	"name": "worldmod",
+	"description": "Changes the world's colors",
+	"url": "https://raw.githubusercontent.com/uosq/lmaobox-luas/refs/heads/main/world%20modulation.lua",
+	"credits": "navet",
+	"deps": []
+}

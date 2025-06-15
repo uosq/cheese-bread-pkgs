@@ -1,0 +1,7 @@
+{
+	"name": "garlic-bread",
+	"description": "Custom cheat",
+	"url": "https://github.com/uosq/lbox-garlic-bread/releases/download/0.8/garlic-bread.lua",
+	"credits": "navet",
+	"deps": []
+}

@@ -1,0 +1,16 @@
+{
+	"name": "autotrickstab",
+	"description": "Automaticly detects possibility of backstabing enemy upon warping behind him",
+	"url": "https://github.com/titaniummachine1/Auto_Trickstab/releases/download/v1.15.2/Auto.Trickstab.lua",
+	"credits": "titaniummachine1 (Terminator)",
+	"deps": [
+		{
+			"name": "lnxLib",
+			"url": "https://github.com/lnx00/Lmaobox-Library/releases/download/v1.00.0/lnxLib.lua"
+		},
+		{
+			"name": "ImMenu",
+			"url": "https://raw.githubusercontent.com/lnx00/Lmaobox-ImMenu/refs/heads/main/src/ImMenu.lua"
+		}
+	]
+}

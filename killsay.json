@@ -1,0 +1,7 @@
+{
+	"name": "killsay",
+	"description": "Say custom messages after killing someone",
+	"url": "https://raw.githubusercontent.com/uosq/lmaobox-luas/refs/heads/main/killsay.lua",
+	"credits": "navet",
+	"deps": []
+}

@@ -1,0 +1,7 @@
+{
+	"name": "splashradius",
+	"description": "Shows splash radius from demoman's sticky launcher",
+	"url": "https://raw.githubusercontent.com/uosq/lmaobox-luas/refs/heads/main/crosshair.lua",
+	"credits": "navet",
+	"deps": []
+}
