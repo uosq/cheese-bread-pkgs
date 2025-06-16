@@ -2,7 +2,9 @@
 
 Hi, this is the package repository for Cheese Bread
 
-You can use the example.json provided in the files to see how to make one
+If you're the author of a package and want it removed from here, tell navet (navet2416) about it
+
+You can use the example.json provided in the files to see how to make a package
 
 If you wish to create a repository, all you need to do is make a new git repo and add the jsons you want and change Cheese Bread's lua to read it instead of this repo
 

@@ -2,5 +2,11 @@
 	"name": "example name",
 	"description": "Cool example package",
 	"url": "https://link.com/to/raw/file",
-	"authors": "your cool name here"
+	"authors": "your cool name here",
+	"deps": [
+		{
+			"name":"example output name",
+			"url": "https://link.to/your/cool/dependency/raw/file.lua"
+		}
+	]
 }

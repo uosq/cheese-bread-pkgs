@@ -2,5 +2,6 @@
 	"name": "colorpicker",
 	"description": "Allows you to change the colors of some lmaobox's options",
 	"url": "https://raw.githubusercontent.com/GoodEveningFellOff/Lmaobox-Scripts/refs/heads/main/Color%20Picker/colorpicker.lua",
-	"authors": "Greggory (CoolEveningFellOff)"
+	"authors": "Greggory (CoolEveningFellOff)",
+	"deps": []
 }
