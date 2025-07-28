@@ -1,0 +1,7 @@
+{
+    "name": "proj aimbot",
+    "description": "Navet's projectile aimbot",
+    "url": "https://github.com/uosq/lbox-projectile-aimbot/releases/download/v6/projaimbot.lua",
+    "authors": "navet",
+    "deps": []
+}
